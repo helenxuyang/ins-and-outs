@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815643262666",
+    "firebase_url": "https://stomach-tracker.firebaseio.com",
+    "project_id": "stomach-tracker",
+    "storage_bucket": "stomach-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815643262666:android:2bcd8cb2378a3cc05e7e33",
+        "android_client_info": {
+          "package_name": "yang.xu.helen.stomach_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815643262666-0qhgble89ef8c0029ktg13t3ujvmph99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "yang.xu.helen.stomach_tracker",
+            "certificate_hash": "666784a95c68d071d66aa20f58dbb75cc7700e8e"
+          }
+        },
+        {
+          "client_id": "815643262666-ptqlavbpjdl5iboe54gfjkrm8ksmpjo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kHyt2C5ZMcabOAbc-9TDB9keiFoshKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815643262666-ptqlavbpjdl5iboe54gfjkrm8ksmpjo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
